@@ -1,4 +1,4 @@
-package simulation;
+package lecture.simulation;
 import java.util.*;
 
 public class 청소 {

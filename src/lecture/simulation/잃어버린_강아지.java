@@ -1,4 +1,4 @@
-package simulation;
+package lecture.simulation;
 
 public class 잃어버린_강아지 {
 
